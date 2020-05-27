@@ -1,1 +1,1 @@
-# TMDB-Box-Office-Prediction-with-Deep-Neural-Network
+# TMDB Box Office Prediction with Deep Neural Networks
